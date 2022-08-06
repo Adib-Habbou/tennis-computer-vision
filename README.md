@@ -1,3 +1,3 @@
 # Tennis Detection
 
- Tennis Detection of players, racket and ball using Yolo and OpenCV
+Detection of tennis players, racket and ball using Yolo and OpenCV
