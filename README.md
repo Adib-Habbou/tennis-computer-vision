@@ -12,6 +12,12 @@ Input            |  Output
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis7.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection4.png)
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis1.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection1.png)
 
+### The results obtained on videos:
+
+Input            |  Output
+:-------------------------:|:-------------------------:
+
+
 ### The goal for videos is to obtain output videos such as:
 
 Input            |  Output
