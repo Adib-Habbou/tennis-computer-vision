@@ -8,4 +8,6 @@ Input            |  Output
 
 Detection of tennis players, racket and ball on images of real matches using Yolo and OpenCV:
 
-![](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
+Input            |  Output
+:-------------------------:|:-------------------------:
+![](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/tennis5.png)  |  ![output_img1](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
