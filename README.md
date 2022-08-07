@@ -2,7 +2,7 @@
 
 Detection of tennis players, rackets and balls on images and videos of real matches using Yolo and OpenCV.
 
-Detection of tennis players postures and gestures using OpenPose.
+Using OpenPose to detect and highlight tennis players postures and gestures on training videos.
 
 ### The results obtained on images:
 
