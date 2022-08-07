@@ -6,4 +6,4 @@ Detection of tennis players, racket and ball on images of real matches using Yol
 
 The goal is to obtain outputs videos like this:
 
-![](https://github.com/ArtLabss/tennis-tracking/blob/579fb3344935bbf4c5d08e27c99ffc6b56bed896/VideoOutput/ezgif.com-gif-maker(2).gif)
+![](https://github.com/ArtLabss/tennis-tracking/blob/0f684fdeef96a715984dc74b62b961f68ff95edc/VideoOutput/ezgif.com-gif-maker.gif)
