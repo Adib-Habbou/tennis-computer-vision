@@ -6,4 +6,4 @@ Detection of tennis players, racket and ball on images of real matches using Yol
 
 The goal is to obtain outputs videos like this:
 
-![](https://github.com/Adib-Habbou/portfolio/blob/main/videos/output-video.mp4)
+![](https://github.com/ArtLabss/tennis-tracking/blob/06179bdd29d4424f5e19e5600802f853aaa86f22/VideoOutput/monteCarlo_output.gif)
