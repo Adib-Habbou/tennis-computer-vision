@@ -1,6 +1,6 @@
 # Tennis Computer Vision
 
-Detection of tennis players, racket and ball on images and videos of real matches using Yolo and OpenCV.
+Detection of tennis players, rackets and balls on images and videos of real matches using Yolo and OpenCV.
 
 ### The results obtained on images:
 
