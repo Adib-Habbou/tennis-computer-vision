@@ -5,8 +5,8 @@ Detection of tennis players, racket and ball on images of real matches using Yol
 Input            |  Output
 :-------------------------:|:-------------------------:
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis8.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
-![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis1.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection1.png)
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis7.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection4.png)
+![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis1.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection1.png)
 
 The goal for videos is to obtain output videos like this from input videos:
 
