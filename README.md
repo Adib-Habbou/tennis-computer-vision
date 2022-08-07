@@ -10,4 +10,4 @@ Detection of tennis players, racket and ball on images of real matches using Yol
 
 Input            |  Output
 :-------------------------:|:-------------------------:
-![](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/input%20images/tennis5.png)  |  ![output_img1](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
+![](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis8.jpg)  |  ![output_img1](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
