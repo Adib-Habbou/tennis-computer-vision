@@ -4,6 +4,13 @@ Detection of tennis players, rackets and balls on images and videos of real matc
 
 Using OpenPose to detect and highlight tennis players postures and gestures on training videos.
 
+### The results obtained on images of me playing tennis:
+
+Input            |  Output
+:-------------------------:|:-------------------------:
+![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/adib%20tennis%20input/input1.jpeg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/adib%20tennis%20output/output1.png)
+![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/adib%20tennis%20input/input4.jpeg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/adib%20tennis%20output/output4.png)
+
 ### The results obtained on images for players, rackets and balls detection:
 
 Input            |  Output
@@ -11,12 +18,6 @@ Input            |  Output
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis8.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-detection-yolo/blob/main/output%20images/detection5.png)
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis7.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection4.png)
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/input%20images/tennis1.jpg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/output%20images/detection1.png)
-
-### The results obtained on videos for players poses detection:
-
-Input            |  Output
-:-------------------------:|:-------------------------:
-
 
 ### The goal for videos is to obtain results such as this for players and court detection:
 
