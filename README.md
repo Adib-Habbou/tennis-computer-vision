@@ -18,7 +18,7 @@ Input            |  Output
 :-------------------------:|:-------------------------:
 
 
-### The goal for videos is to obtain output videos such as:
+### The goal for videos is to obtain results such as:
 
 Input            |  Output
 :-------------------------:|:-------------------------:
