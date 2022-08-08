@@ -8,7 +8,7 @@ Using OpenPose to detect and highlight tennis players postures and gestures on t
 
 Input            |  Output
 :-------------------------:|:-------------------------:
-![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detection/adib%20tennis%20input/input1.jpeg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detectionadib/%20tennis%20output/output1.png)
+![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detection/adib%20tennis%20input/input1.jpeg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detection/adib%20tennis%20output/output1.png)
 ![input_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detection/adib%20tennis%20input/input4.jpeg)  |  ![output_img](https://github.com/Adib-Habbou/tennis-computer-vision/blob/main/tennis-pose-detection/adib%20tennis%20output/output4.png)
 
 ### The results obtained on images for players, rackets and balls detection:
