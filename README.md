@@ -4,7 +4,7 @@ Detection of tennis players, rackets and balls on images and videos of real matc
 
 Using OpenPose to detect and highlight tennis players postures and gestures on training images and videos.
 
-### The results obtained on images of me playing tennis:
+### The results obtained on images of me nad Nick Kyrgios playing tennis:
 
 Input            |  Output
 :-------------------------:|:-------------------------:
